@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1445270551 source:c:\users\prateek\documents\cb_workspace\matrixinput\main.c
+	<stdio.h>
+	<stdlib.h>
+

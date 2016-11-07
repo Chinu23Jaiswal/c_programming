@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1448008876 source:c:\users\prateek\documents\cb_workspace\sortarr\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

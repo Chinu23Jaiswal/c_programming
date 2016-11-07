@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1445268833 source:c:\users\prateek\documents\cb_workspace\2darray\main.c
+	<stdio.h>
+	<stdlib.h>
+

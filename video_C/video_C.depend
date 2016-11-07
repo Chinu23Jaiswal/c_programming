@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1451574439 source:c:\users\prateek\documents\cb_workspace\video_c\main.c
+	<stdio.h>
+	<stdlib.h>
+

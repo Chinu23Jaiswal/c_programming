@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1448011992 source:c:\users\prateek\documents\cb_workspace\pointstring\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1473698605 source:c:\users\prateek\documents\cb_workspace\c\pointstring\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

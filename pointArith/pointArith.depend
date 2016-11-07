@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1447885153 source:c:\users\prateek\documents\cb_workspace\pointarith\main.c
+	<stdio.h>
+	<stdlib.h>
+

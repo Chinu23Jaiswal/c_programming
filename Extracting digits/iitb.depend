@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1443968043 source:c:\users\prateek\documents\cb_workspace\extracting digits\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1443987906 source:c:\users\prateek\documents\cb_workspace\mult_input\main.c
+	<stdio.h>
+	<stdlib.h>
+

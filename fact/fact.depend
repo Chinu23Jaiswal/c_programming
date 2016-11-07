@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1447965669 source:c:\users\prateek\documents\cb_workspace\fact\main.c
+	<stdio.h>
+	<stdlib.h>
+

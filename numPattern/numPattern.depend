@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1453541981 source:c:\users\prateek\documents\cb_workspace\numpattern\main.c
+	<stdio.h>
+	<stdlib.h>
+
